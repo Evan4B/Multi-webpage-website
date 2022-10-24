@@ -1,0 +1,29 @@
+body {
+    background-color: burlywood;
+    
+}
+.opening{
+    font-size: 15px
+}
+.firsthead{
+    font-size: 25px
+}
+.title{
+    text-align:center;
+    font-size:32px
+}
+.directions{
+font-size:17px
+}
+h3{
+    font-size:22px
+}
+.ingredients{
+    font-size:17px
+}
+h5{
+    font-size:22px
+}
+h6{
+    font-size:19px
+}
